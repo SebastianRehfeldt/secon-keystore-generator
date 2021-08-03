@@ -5,7 +5,7 @@ plugins {
 }
 
 group 'com.mawendo.secon'
-version scmVersion.version
+// version scmVersion.version
 
 repositories {
     mavenCentral()
